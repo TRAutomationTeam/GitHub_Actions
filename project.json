@@ -1,7 +1,7 @@
 {
   "name": "GitHub_Actions_flow",
   "projectId": "efd88171-6a40-47b1-9f64-86c6f77315a3",
-  "description": "Blank Process2",
+  "description": "Blank Process3",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.24.4]",
